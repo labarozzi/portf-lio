@@ -1,5 +1,3 @@
-Copy code
-
 var $certificado = $("#certificado");
 
 $certificado.on('mouseover', function() {
